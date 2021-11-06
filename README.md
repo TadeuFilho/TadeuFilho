@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá 😎
 
-<!--
-**TadeuFilho/TadeuFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JAVA | Spring | Micro services | Testes {JUnit e Mockito} |<br>
+| Kotlin | <br>
+Banco de Dados {SQLServer, PostgreSQL, Mongodb, Redis, … } | <br>
+DEVOPS - Cloud {Azure Devops | AWS} | <br>
+VIRTUAL - Docker | Kubernetes <br>
+MENSAGERIA - RabbitMQ<br>
+
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)](www.https://github.com/TadeuFilho)
+
+
+
+![Tadeu GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeuFilho&show_icons=true&theme=dracula)
+
+
+
+## Tecnologias do dia a dia
+
+
+
+<div style="display: inline-block"><br/>
+<img alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
