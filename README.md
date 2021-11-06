@@ -12,7 +12,7 @@ MENSAGERIA - RabbitMQ<br>
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)](www.https://github.com/TadeuFilho)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)](https://github.com/TadeuFilho)
 
 
 
