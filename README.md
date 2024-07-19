@@ -3,7 +3,7 @@
 
 
 JAVA | Spring | Micro services | Testes {JUnit e Mockito} |<br>
-| Kotlin | <br>
+<br>
 Banco de Dados {SQLServer, PostgreSQL, Mongodb, Redis, … } | <br>
 DEVOPS - Cloud {Azure Devops | AWS} | <br>
 VIRTUAL - Docker | Kubernetes <br>
