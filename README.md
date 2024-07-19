@@ -4,10 +4,9 @@
 
 JAVA | Spring | Micro services | Testes {JUnit e Mockito} |<br>
 <br>
-Banco de Dados {SQLServer, PostgreSQL, Mongodb, Redis, … } | <br>
+Banco de Dados {SQLServer, PostgreSQL, Mongodb, … } | <br>
 DEVOPS - Cloud {Azure Devops | AWS} | <br>
-VIRTUAL - Docker | Kubernetes <br>
-MENSAGERIA - RabbitMQ<br>
+MENSAGERIA - {RabbitMQ | Kafka} <br>
 
 
 
